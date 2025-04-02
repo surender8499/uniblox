@@ -2,14 +2,14 @@
 
 #Backend:
 
-Python 3.9+
-Django 4.0
-Django REST Framework
-PostgreSQL (default SQLite for development)
+1. Python 3.9+
+2. Django 4.0
+3. Django REST Framework
+4. PostgreSQL (default SQLite for development)
 
  # Frontend:
 
-React 18
-Redux Toolkit
-Material-UI
-Axios for API calls
+1. React 18
+2. Redux Toolkit
+3. Material-UI
+4. Axios for API calls
